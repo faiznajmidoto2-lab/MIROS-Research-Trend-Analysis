@@ -1,6 +1,12 @@
 # MIROS Research Trend Analysis (2018–2025)
 **Text Mining & Exploratory Data Analysis of Road Safety Research Projects**
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 ## 📌 Project Background
 The Malaysian Institute of Road Safety Research (MIROS) has conducted numerous research projects over the years. Without a centralized view, it is difficult to identify overlapping topics, track the evolution of research focus, and identify gaps in road user coverage. 
 
